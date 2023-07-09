@@ -7,3 +7,18 @@
 .text-yellowgren{
     color:yellowgreen;
 }
+.container{
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify;
+    min-height: 800px;
+
+}
+.kutu {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+}
